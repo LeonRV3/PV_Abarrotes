@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/10/2020, 08:03:14 PM
+    Author     : MASTERL
+*/
+
+.root{
+    
+    -fx-background-color:#D0D3D4;
+    
+    
+    
+    
+    
+    
+}
+
+#btnAgregar{
+    -fx-background-color: #2ECC71;
+   
+    
+}
+
+#eliminarPersona{
+    -fx-background-color: #E74C3C;
+}
+
+#btnModificar{
+    -fx-background-color: #3498DB;
+}
+
+.tblPersonas{
+    -fx-background-color: greenyellow;
+}
+
+
+
