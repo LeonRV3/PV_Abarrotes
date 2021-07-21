@@ -23,9 +23,9 @@ usuario y despues obtener el vuelto/cambio.
 ### Screenshot
 
 Desktop Version Local:
-![DesktopVenta](./img/Ventas.png)
-![DesktopVenta2](./img/VentasACC.png)
-![DesktopInventario](./img/InventarioVista.png)
+![DesktopVenta](/img/Ventas.PNG)
+![DesktopVenta2](/img/VentasACC.PNG)
+![DesktopInventario](/img/InventarioVista.PNG)
 ## My process
 
 ### Built with
